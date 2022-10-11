@@ -14,7 +14,7 @@ body:
         
         | 1. open Options (ESC) -> Debug Menu (a) |         2. open Info (i)          |
         | :-------------------------------------: | :-------------------------------: |
-        |    ![img](issue1.png)   | <img src="image2.png"/> |
+        |    ![img](https://github.com/CompetitionWorldDomination/symmetrical-bassoon/blob/main/.github/ISSUE_TEMPLATE/issue1.png)   | <img src="https://github.com/CompetitionWorldDomination/symmetrical-bassoon/blob/main/.github/ISSUE_TEMPLATE/issue2.png"/> |
         |  3. `Open a bug report on github` (U)   | 4. An link to issue is generated  |
         |    <img src="../../doc/img/bug/bug3.png"/>    | <img src="../../doc/img/bug/bug4.png"/> |
   - type: input
