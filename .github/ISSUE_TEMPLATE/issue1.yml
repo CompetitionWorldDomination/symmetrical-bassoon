@@ -8,14 +8,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        """# Thanks for taking the time to fill out this bug report!
+        # Thanks for taking the time to fill out this bug report!
         It is encouraged to open this bug report directly from the game.
         
         | 1. open Options (ESC) -> Debug Menu (a) |         2. open Info (i)          |
         | :-------------------------------------: | :-------------------------------: |
         |    <img src="../../doc/img/bug/bug1.png"/>    | <img src="../../doc/img/bug/bug2.png"/> |
         |  3. `Open a bug report on github` (U)   | 4. An link to issue is generated  |
-        |    <img src="../../doc/img/bug/bug3.png"/>    | <img src="../../doc/img/bug/bug4.png"/> |"""
+        |    <img src="../../doc/img/bug/bug3.png"/>    | <img src="../../doc/img/bug/bug4.png"/> |
   - type: input
     id: contact
     attributes:
