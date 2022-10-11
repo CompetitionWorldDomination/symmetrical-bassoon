@@ -7,7 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      description: |
+      value: |
         "# Thanks for taking the time to fill out this bug report!
         It is encouraged to open this bug report directly from the game.
         
